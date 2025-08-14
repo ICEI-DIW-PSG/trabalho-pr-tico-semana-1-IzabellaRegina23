@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Izabella regina
+Matricula:901340
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![navegador](images/inspecao_diw.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![replit](images/replit_diw.png)
 
 
 ## Orientações sobre Linguagem MarkDown
